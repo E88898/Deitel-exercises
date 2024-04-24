@@ -1,0 +1,1 @@
+A default constructor is a constructor that either has no parameters, or if it has parameters, all the parameters have default values. This one provided by the compiler creates class object without giving any initial values to its data members.

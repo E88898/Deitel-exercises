@@ -1,0 +1,1 @@
+The function prototype is a declaration of a function that tells the compiler the function's name, that declares the types of the function’s parameters.

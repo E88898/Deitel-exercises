@@ -1,0 +1,2 @@
+Header files that have the .h extension. The purpose of header files is to conveniently store a set of object declarations for later use in other programs. This file is not for user.
+A source file can include other files, known as header files, with the #include directive, file contains the implementation of the class. 
