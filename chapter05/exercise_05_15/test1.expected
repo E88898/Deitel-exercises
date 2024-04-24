@@ -1,0 +1,14 @@
+Welcome to the grade book for
+CS101 C++ Programming!
+
+Enter the letter grades.
+Enter the EOF character to end input.
+
+
+Number of students who received each letter grade:
+A: 3
+B: 2
+C: 2
+D: 0
+F: 0
+Grade-point average for the set of grades 3

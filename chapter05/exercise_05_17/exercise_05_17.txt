@@ -1,0 +1,9 @@
+a) 1, no
+b) 0, no
+c) 1, no
+d) 0, no
+e) 1, no
+f) 0, no
+g) 0, yes
+h) 1, yes
+i) 0, yes
