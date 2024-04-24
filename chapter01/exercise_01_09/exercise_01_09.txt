@@ -1,0 +1,4 @@
+a. Objects are composed in part by structured program pieces.
+b. Which objects are needed to implement the system, each object's behaviors, the interaction between the objects
+c. People send messages through body language, speech, writings, email, telephones
+d. Select a station, adjust the volume, adjust bass and treble, play a CD or tape

@@ -1,0 +1,10 @@
+a. input unit
+b. computer programming
+c. high level language
+d. output unit
+e. memory unit
+f. logical unit
+g. logical unit
+h. high level language
+i. machine language
+j. central processing unit

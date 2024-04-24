@@ -1,0 +1,5 @@
+a. false. Some operators are evaluated from left to right, while other operators are evaluated from right to left
+b. true. All variables begin to underscore or letter.
+c. false. The statement is an output statement  is output to the screen.
+d. false. arithmetic operators can appear in any order in an expression. Multiplication, division, and moduls have higher precendence
+e. false. h22 is a valid variable name 

@@ -1,0 +1,2 @@
+Machine -language programming was simply too slow, te dious and error-prone for most programmers. Machine dependent
+languages tend to exploit the efficiencies of a particular machine.

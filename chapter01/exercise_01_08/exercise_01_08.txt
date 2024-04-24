@@ -1,0 +1,2 @@
+A fatal error causes a program to terminate prematurely. A nonfatal error occurs when the logic of the program is
+incorrect, and the program does not work properly. A fatal error is preferred for debugging purposes. A fatal error immediately lets you know there is a problem with the program, whereas a nonfatal error can be subtle and possibly go undetected.

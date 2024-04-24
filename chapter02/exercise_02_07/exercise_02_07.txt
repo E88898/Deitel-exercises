@@ -1,0 +1,4 @@
+a. std::cin
+This objects refers to the standard iput device that is connected to the keyboard 
+b. std::cout
+This objects refers to the standard output that is connected to the screen

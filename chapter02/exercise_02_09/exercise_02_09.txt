@@ -1,0 +1,4 @@
+a. cout << " Enter two numbers";
+b. a = b * c
+c. /// Sample Paylor Calculation program
+d. cin >> a >> b >> c

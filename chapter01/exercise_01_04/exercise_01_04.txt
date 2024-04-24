@@ -1,0 +1,6 @@
+a) CPU - hardware
+b) C++ copiler - software
+c) ALU - hardware
+d) C++ preprocessor - software
+e) input unit - hardware
+f) an editor program - software

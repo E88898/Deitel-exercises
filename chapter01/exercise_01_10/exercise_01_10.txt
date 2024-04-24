@@ -1,0 +1,4 @@
+Watch attributes are time, color, band, style. The behaviors of the watch include setting the time
+and getting the time. The user of the watch
+does not need to know the mechanics of the watch in order to use it; the user only needs to know that the watch keeps the
+proper time. The interface to the watch allows the user to set and get the time.
