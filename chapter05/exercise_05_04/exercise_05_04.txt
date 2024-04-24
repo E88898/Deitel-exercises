@@ -1,0 +1,18 @@
+a) for (int x = 100; x >= 1; x--) {
+       cout << x << endl;
+   }
+
+b) switch (value % 2) { 
+        case 0: cout << "Even integer" << endl; break;
+        case 1:  cout << "Odd integer" << endl; break;
+    }
+
+c) for (int x = 19; x >= 1; x -= 2) {
+        cout << x << endl;
+   }
+
+d) int counter = 2;
+    do {
+        cout << counter << endl;
+        counter += 2;
+    } while (counter <= 100);

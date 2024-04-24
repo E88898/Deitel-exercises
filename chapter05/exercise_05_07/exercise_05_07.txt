@@ -1,0 +1,3 @@
+line = y
+column = x
+@ symbol x, y times
