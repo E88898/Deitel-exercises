@@ -1,0 +1,46 @@
+a. x = 5 y = 8
+
+if (y == 8)
+    if (x == 5)
+        cout << "@@@@@" << endl;
+else
+        cout << "#####" << endl;
+
+cout << "$$$$$" << endl;
+cout << "&&&&&" << endl;
+
+b. x = 5 y = 8
+
+if (y == 8)
+    if (x == 5)
+        cout << "@@@@@" << endl;
+    else {
+        cout << "#####" << endl;
+        cout << "$$$$$" << endl;
+        cout << "&&&&&" << endl;
+    }
+
+c. x = 5 y = 8
+
+if (y == 8)
+    if (x == 5)
+        cout << "@@@@@" << endl;
+    else {
+        cout << "#####" << endl;
+        cout << "$$$$$" << endl;
+    }
+
+cout << "&&&&&" << endl;
+
+d. x = 5 y = 7
+
+if (y == 8) {
+    if (x == 5)
+        cout << "@@@@@" << endl;
+}
+else {
+    cout << "#####" << endl;
+    cout << "$$$$$" << endl;
+    cout << "&&&&&" << endl;
+}
+
