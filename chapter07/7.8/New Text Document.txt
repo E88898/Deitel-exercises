@@ -1,0 +1,33 @@
+a.
+    std::cout << f[6] << std::endl;
+
+b.
+    float b[5];
+    b[4] = value;
+
+c.
+    int g[5] = {8, 8, 8, 8, 8};
+
+d.
+    float total = 0;
+    for (int counter = 0; counter < 100; ++counter) {
+        total += c[counter];
+    }
+    std::cout << total << std::endl;
+
+e.
+    for (int counter = 0; counter < 11; ++counter) {
+        b[counter] = a[counter];
+    }
+
+f.
+    float smallest = w[0], largest = w[0];
+    for (int counter = 1; counter < 99; ++counter) {
+        if (smallest > w[counter]) {
+            smallest = w[counter];
+        } else if (largest < w[counter]) {
+                largest = w[counter]
+        }
+    }
+    std::cout << "Smallest is " << smallest << std::endl;
+    std::cout << "Largest is " << largest << std::endl;
