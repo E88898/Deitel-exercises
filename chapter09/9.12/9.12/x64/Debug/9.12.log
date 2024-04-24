@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\main.cpp(22,19): error C2662: 'void Rectangle::print(void)': cannot convert 'this' pointer from 'const Rectangle' to 'Rectangle &'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\main.cpp(22,2): message : Conversion loses qualifiers
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.h(32,10): message : see declaration of 'Rectangle::print'
+  Rectangle.cpp
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,31): error C2662: 'int Vertex::getX(void)': cannot convert 'this' pointer from 'const Vertex' to 'Vertex &'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,24): message : Conversion loses qualifiers
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(33,13): message : see declaration of 'Vertex::getX'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,42): error C2662: 'int Vertex::getX(void)': cannot convert 'this' pointer from 'const Vertex' to 'Vertex &'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,35): message : Conversion loses qualifiers
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(33,13): message : see declaration of 'Vertex::getX'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,55): error C2662: 'int Vertex::getX(void)': cannot convert 'this' pointer from 'const Vertex' to 'Vertex &'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,48): message : Conversion loses qualifiers
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(33,13): message : see declaration of 'Vertex::getX'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,66): error C2662: 'int Vertex::getX(void)': cannot convert 'this' pointer from 'const Vertex' to 'Vertex &'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,59): message : Conversion loses qualifiers
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(33,13): message : see declaration of 'Vertex::getX'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,81): error C2662: 'int Vertex::getY(void)': cannot convert 'this' pointer from 'const Vertex' to 'Vertex &'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,74): message : Conversion loses qualifiers
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(38,13): message : see declaration of 'Vertex::getY'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,92): error C2662: 'int Vertex::getY(void)': cannot convert 'this' pointer from 'const Vertex' to 'Vertex &'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,85): message : Conversion loses qualifiers
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(38,13): message : see declaration of 'Vertex::getY'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,105): error C2662: 'int Vertex::getY(void)': cannot convert 'this' pointer from 'const Vertex' to 'Vertex &'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,98): message : Conversion loses qualifiers
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(38,13): message : see declaration of 'Vertex::getY'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,116): error C2662: 'int Vertex::getY(void)': cannot convert 'this' pointer from 'const Vertex' to 'Vertex &'
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(106,109): message : Conversion loses qualifiers
+C:\Users\User\source\repos\Deitel 9\9.12\9.12\Rectangle.cpp(38,13): message : see declaration of 'Vertex::getY'
+  Generating Code...
