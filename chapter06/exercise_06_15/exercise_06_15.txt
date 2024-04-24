@@ -1,0 +1,5 @@
+a) Every number has an equal chance of being chosen at any time.
+b) Because it produces a sequence of pseudo-random numbers that when scaled appear to be random.
+c) The sequence of numbers produced by the random number generator differ each time function srand is called. Notrandomizing is useful for debugging purposes—the programmer knows the sequence of numbers.
+d) To produce random values in a specific range.
+e) It enables more accurate predictions of random events.

@@ -1,0 +1,6 @@
+a) n = 1 + rand() % 2;
+b) n = 1 + rand() % 100;
+c) n = rand() % 10;
+d) n = 1000 + rand() % 13;
+e) n = rand() % 3 - 1;
+f) n = rand() % 15 -3;
